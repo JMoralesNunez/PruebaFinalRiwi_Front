@@ -1,4 +1,7 @@
-Here is a professional and clear **README.md** file for your Frontend project, written in English. You can create a file named `README.md` inside your **Vue project folder** and paste this content.
+# Coder: Jhonatan Morales
+## Clan: Van Rossum, C#
+## Email: jhonatanmorales99@gmail.com
+## c.c: 1000565363
 
 ---
 
